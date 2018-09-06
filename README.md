@@ -1,3 +1,3 @@
 # TDT4113-ProgLab 2
 
-Enkelte øvinger i faget Datateknologi, programmeringsprosjekt
+Some of the most relevant exercises in Computer Science, Programming Project
